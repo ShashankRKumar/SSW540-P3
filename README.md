@@ -9,4 +9,6 @@ SSW 540 - Python Assignment #3
 This script will take three inputs from the user, pass them to a user defined function and return the max of the three inputs.
 Parameters:
     inp1,2,3 - User inputs to the console that are passed to the function
+
+    testing
     """
